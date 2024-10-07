@@ -1,1 +1,2 @@
-"Wade Eddy" 
+"Wade Eddy"
+eddyw@oregonstate.edu 
